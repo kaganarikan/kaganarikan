@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kagan
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kaganarikan/)
